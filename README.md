@@ -14,6 +14,7 @@ As time goes on, we can see that each region’s (except Unknown) quantity incre
 
 ### 3.	Average Sale Price (ASP) is defined as bookings divided by units.  Find the top 10 countries with the highest Renewal ASP, and conversely which country has the lowest Renewal ASP?
 Top 10 countries with highest Renewal ASP: 
+
   	- United States of America
 	- Germany
 	- United Kingdom
@@ -25,6 +26,7 @@ Top 10 countries with highest Renewal ASP:
 	- Belgium
 	- Denmark
 Country with lowest Renewal ASP:
+
 	- Reunion
 
 ### 4.	Produce a plot that best illustrates the distribution of units by User Limit over time.  Is there anything you find interesting that you’d like to call out?

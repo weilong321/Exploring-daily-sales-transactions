@@ -1,6 +1,7 @@
 # Exploring-daily-sales-transcations
 Here is a dataset of daily sales transactions of a particular product on the market. A tableau dashboard is used to answer some questions.
-https://public.tableau.com/app/profile/matthew.chen3029/viz/ExploratoryAnalysisStory/Story1
+
+> https://public.tableau.com/app/profile/matthew.chen3029/viz/ExploratoryAnalysisStory/Story1
 
 ### 1. Describe the data set in broad strokes. Note down any data anomalies, outliers, or anything you think is unusual in the data set.
 

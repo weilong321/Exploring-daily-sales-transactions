@@ -1,0 +1,5 @@
+*.twbx linguist-detectable=true
+
+*.twbx linguist-language=Tableau
+
+*.twbx text
